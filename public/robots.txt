@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /contact.php
+Disallow: /subscribe.php
+Disallow: /data/
+Sitemap: https://www.vednity.com/sitemap.xml
+
