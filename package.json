@@ -1,0 +1,14 @@
+{
+  "name": "vednity-website",
+  "version": "1.0.0",
+  "description": "Vednity — Digital Marketing Agency website (Node.js, zero dependencies)",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {}
+}
+
