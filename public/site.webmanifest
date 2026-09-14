@@ -1,0 +1,17 @@
+{
+  "name": "Vednity — Digital Marketing Agency",
+  "short_name": "Vednity",
+  "description": "SEO, Ads, Social, Content & Web — all under one roof.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07060f",
+  "theme_color": "#07060f",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
